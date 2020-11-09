@@ -1,5 +1,7 @@
 # Day 1: Recursive Counting
 
+**Fork and then clone me!**
+
 Let's ease into recursion. For this challenge, we'd like you to convert the following while loop that counts to a recursive method that counts. We've included while loops for Ruby and JS below. Your method is successful if it prints numbers 0-9. Remember: it must call itself!
 
 ```ruby
@@ -21,8 +23,6 @@ while (count < 10) {
 ```
 
 If you get a stack overflow, just breathe. We all get them - the trick is to get used to them and carry on solving the problem.
-
-**Fork and then clone me!**
 
 Use the language of your choosing. We've included starter files for some languages where you can pseudocode, explain your solution and code.
 
