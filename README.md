@@ -2,7 +2,7 @@
 
 **Fork and then clone me!**
 
-Let's ease into recursion. For this challenge, we'd like you to convert the following while loop that counts to a recursive method that counts. We've included while loops for Ruby and JS below. Your method is successful if it prints numbers 0-9. Remember: it must call itself!
+Let's ease into recursion. For this challenge, we'd like you to convert the following while loop that counts to a recursive method that counts. We've included while loops for Ruby, JS, and Python below. Your method is successful if it prints numbers 0-9. Remember: it must call itself!
 
 ```ruby
 count = 0
@@ -20,6 +20,14 @@ while (count < 10) {
   console.log(count);
   ++count;
 }
+```
+
+```python
+count = 0
+
+while count < 10:
+  print(count)
+  count += 1
 ```
 
 If you get a stack overflow, just breathe. We all get them - the trick is to get used to them and carry on solving the problem.
